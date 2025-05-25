@@ -1,0 +1,10 @@
+main {
+    padding: 2rem;
+    font-family: sans-serif;
+}
+
+.ui-component {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}

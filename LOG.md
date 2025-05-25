@@ -7,3 +7,10 @@
 - Branch üzerinde buton bileşeni hazırlanmaya başlandı, hazır olduktan sonra ana dala engtegre edilecek.
 - Başlanılan buton bileşeni tamamlanarak, index.html içerisine entegre edilecek ve dökümantasyonu yazılacak.
 
+## 25 Mayıs 2025
+ 
+- index.html içerisine ilk bileşen olan buton bileşeni eklendi, ön arayüz stilleri düzenlendi,
+- farklı bir dosya konumunda yanlışlıkla git deposu ilklendirilirse, 
+''' rm -rf .git '''
+komutu ile düzeltilmesi uygulandı.
+- 
