@@ -20,3 +20,5 @@ komutu ile düzeltilmesi uygulandı.
 - button.js içerisinde yazılan ripple efekti oluşturma, butona atanma ve alert kodları kaldırıldı,
 - :hover için geçişe gölgelendirme eklendi,
 - "section"ların ayrı gözükmesi için ufak bir gölgelendirme ve ayrı arka plan rengi ayarlandı,
+- button bileşen dökümantasyonu için .md dosyası hazırlandı, README.md dosyası içerisine dosya yolu bağlantısı eklendi,
+- 
