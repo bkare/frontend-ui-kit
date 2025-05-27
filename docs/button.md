@@ -14,12 +14,12 @@ Aşağıdaki sınıflarla bir buton oluşturabilirsiniz.
 ## Desteklenen Sınıflar
 
 
-| Sınıf Adı         |   Açıklama                            |
-|-------------------|---------------------------------------|
-| .btn              |   Tüm butonlarda olmalı (Ana sınıf)   |
-| .btn-primary      |   Mavi arka plan, beyaz yazı          |
-| .btn-secondary    |   Gri arka plan, beyaz yaz            |
-| .btn-disabled     |   Açık gri, tıklanamaz                |
+| Sınıf Adı         | Açıklama                            |
+| ----------------- | ----------------------------------- |
+| .btn              | Tüm butonlarda olmalı (Ana sınıf)   |
+| .btn-primary      | Mavi arka plan, beyaz yazı          |
+| .btn-secondary    | Gri arka plan, beyaz yaz            |
+| .btn-disabled     | Açık gri, tıklanamaz                |
 
 ## JS Özellikleri 
 
