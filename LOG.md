@@ -13,4 +13,10 @@
 - farklı bir dosya konumunda yanlışlıkla git deposu ilklendirilirse, 
 ''' rm -rf .git '''
 komutu ile düzeltilmesi uygulandı.
-- 
+
+
+## 27 Mayıs 2025
+ 
+- button.js içerisinde yazılan ripple efekti oluşturma, butona atanma ve alert kodları kaldırıldı,
+- :hover için geçişe gölgelendirme eklendi,
+- "section"ların ayrı gözükmesi için ufak bir gölgelendirme ve ayrı arka plan rengi ayarlandı,
