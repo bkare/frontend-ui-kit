@@ -5,7 +5,7 @@ Bu proje, sade, yeniden kullanılabilir ve responsive kullanıcı arayüzü bile
 ## Bileşenler
 
 - [Button Bileşeni](./docs/button.md)
-- Modal
+- [Modal Bileşeni](./docs/modal.md)
 - Dropdown
 - Card
 - Tooltip
