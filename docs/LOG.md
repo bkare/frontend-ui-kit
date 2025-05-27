@@ -21,4 +21,4 @@ komutu ile düzeltilmesi uygulandı.
 - :hover için geçişe gölgelendirme eklendi,
 - "section"ların ayrı gözükmesi için ufak bir gölgelendirme ve ayrı arka plan rengi ayarlandı,
 - button bileşen dökümantasyonu için .md dosyası hazırlandı, README.md dosyası içerisine dosya yolu bağlantısı eklendi,
-- 
+- button-component için oluşturulan branch main branch ile üzerine birleştirildi ve geliştirme branch i github üzerinden ve lokalden kaldırıldı (modal bileşenine geçilecek)

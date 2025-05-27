@@ -6,6 +6,7 @@
     <title>Frontend UI KIT</title>
     <link rel="stylesheet" href="./assets/style.css">
     <link rel="stylesheet" href="./components/button/button.css">
+    <link rel="stylesheet" href="./components/modal/modal.css">
 </head>
 <body>
     <main>
@@ -18,9 +19,24 @@
                 <button class="btn btn-disabled" disabled>Çalışmayan Buton</button>
             </div>
         </section>
+        <section>
+            <h2>Modal Bileşeni</h2>
+            <div class="ui-component">
+                <button id="openModalBtn" class="btn btn-primary">Modal Aç</button>
+
+                <div class="modal" id="myModal">
+                    <div class="modal-content">
+                        <span class="close-btn" id="closeModalBtn">&times;</span>
+                        <h3>Modal Başlığı</h3>
+                        <p>Bu modal içeriği örneğidir.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <script src="./components/button/button.js"></script>
+    <script src="./components/modal/modal.js"></script>
 
 </body>
 </html>
